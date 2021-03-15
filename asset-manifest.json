@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c29bd223.chunk.css",
-    "main.js": "/static/js/main.c8d84a37.chunk.js",
-    "main.js.map": "/static/js/main.c8d84a37.chunk.js.map",
+    "main.js": "/static/js/main.69184af2.chunk.js",
+    "main.js.map": "/static/js/main.69184af2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2fd7dc15.js",
     "runtime-main.js.map": "/static/js/runtime-main.2fd7dc15.js.map",
     "static/js/2.604dd1fa.chunk.js": "/static/js/2.604dd1fa.chunk.js",
@@ -32,10 +32,10 @@
     "static/media/w-cpumeter-desktop2.png": "/static/media/w-cpumeter-desktop2.ba952274.png",
     "static/media/w-cpumeter-mobile1.png": "/static/media/w-cpumeter-mobile1.8608d6e3.png",
     "static/media/w-cpumeter-mobile2.png": "/static/media/w-cpumeter-mobile2.61663632.png",
-    "static/media/w-design-audi-desktop1.jpg": "/static/media/w-design-audi-desktop1.d07ff095.jpg",
-    "static/media/w-design-audi-desktop2.jpg": "/static/media/w-design-audi-desktop2.492fa578.jpg",
-    "static/media/w-design-audi-mobile1.jpg": "/static/media/w-design-audi-mobile1.7bb290af.jpg",
-    "static/media/w-design-audi-mobile2.jpg": "/static/media/w-design-audi-mobile2.d7ee9fe7.jpg",
+    "static/media/w-design-audi-desktop1.jpg": "/static/media/w-design-audi-desktop1.b25235c3.jpg",
+    "static/media/w-design-audi-desktop2.jpg": "/static/media/w-design-audi-desktop2.abe2b374.jpg",
+    "static/media/w-design-audi-mobile1.jpg": "/static/media/w-design-audi-mobile1.20e101dc.jpg",
+    "static/media/w-design-audi-mobile2.jpg": "/static/media/w-design-audi-mobile2.f50f8473.jpg",
     "static/media/w-design-origin100i-desktop1.jpg": "/static/media/w-design-origin100i-desktop1.c61eedaf.jpg",
     "static/media/w-design-origin100i-desktop2.jpg": "/static/media/w-design-origin100i-desktop2.3550ab7a.jpg",
     "static/media/w-design-origin100i-mobile1.jpg": "/static/media/w-design-origin100i-mobile1.1954945b.jpg",
@@ -56,7 +56,7 @@
     "static/media/w-pageone-mobile1.png": "/static/media/w-pageone-mobile1.863300a4.png",
     "static/media/w-pageone-mobile2.png": "/static/media/w-pageone-mobile2.073518f8.png",
     "static/media/w-teollisuus86-big.jpg": "/static/media/w-teollisuus86-big.0d81739f.jpg",
-    "static/media/w-thumb-audi.png": "/static/media/w-thumb-audi.0c4b5719.png",
+    "static/media/w-thumb-audi.png": "/static/media/w-thumb-audi.ca51d2cf.png",
     "static/media/w-thumb-banners.png": "/static/media/w-thumb-banners.713cacee.png",
     "static/media/w-thumb-campaign-sites.png": "/static/media/w-thumb-campaign-sites.61661462.png",
     "static/media/w-thumb-cpumeter.png": "/static/media/w-thumb-cpumeter.acb7c8c8.png",
@@ -71,6 +71,6 @@
     "static/js/runtime-main.2fd7dc15.js",
     "static/js/2.604dd1fa.chunk.js",
     "static/css/main.c29bd223.chunk.css",
-    "static/js/main.c8d84a37.chunk.js"
+    "static/js/main.69184af2.chunk.js"
   ]
 }
