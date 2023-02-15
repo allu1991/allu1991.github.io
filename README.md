@@ -2,4 +2,4 @@
 
 This is the GitHub pages -repo for my old portfolio website. Site moved.
 
-Website link: <a href="https://allu1991.github.io/"><strong>Portfolio »</strong></a>
+New portfolio link: <a href="https://portfolio-allu1991.vercel.app/"><strong>Portfolio »</strong></a>
